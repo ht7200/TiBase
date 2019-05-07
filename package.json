@@ -1,0 +1,23 @@
+{
+  "name": "zxbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "docs": "parcel build index.html -d docs --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.9.3",
+    "typescript": "^2.9.2",
+    "sass-rem":"^2.0.1"
+  },
+  "dependencies": {
+    "jeet": "^7.2.0",
+    "sass-rem": "^2.0.1"
+  }
+}
