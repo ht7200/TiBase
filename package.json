@@ -1,14 +1,14 @@
 {
-  "name": "zxbase",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ti-base",
+  "version": "0.0.1",
+  "description": "an simple css library",
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
     "docs": "parcel build index.html -d docs --public-url ./"
   },
   "keywords": [],
-  "author": "",
+  "author": "ht7200@foxmail.com",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.9.0",
